@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # AV1 - AeroCode  
 **Sistema de Gerenciamento de Produção de Aeronaves**
 
@@ -54,14 +54,14 @@ aerocode/
 └── README.md
 
 
----
+
 
 ## Pré-requisitos
 
 - Node.js versão **18 ou superior**
 - npm
 
----
+
 
 ## Instalação e Execução
 
@@ -150,7 +150,7 @@ npm run dev
 7. Cadastrar Funcionário (somente Administrador)  
 8. Sair
 
----
+
 
 ## Onde os Dados São Salvos?
 
@@ -158,7 +158,7 @@ npm run dev
 - `data/funcionarios.json` → Cadastro de funcionários e senhas
 - `data/relatorio_[codigo].txt` → Relatórios finais gerados
 
----
+
 
 ## Possíveis Problemas e Soluções
 
@@ -170,7 +170,7 @@ npm run dev
 | Dados não são salvos | Verifique se a pasta `data` existe na raiz do projeto |
 | Métodos não encontrados | Delete a pasta `dist` e compile novamente |
 
----
+
 
 
 - Sempre delete a pasta `dist` antes de compilar após alterações no código.
