@@ -7,8 +7,6 @@ node_modules/
 dist/
 
 # Dados gerados pela aplicação (não versionar)
-data/*
-!data/.gitkeep
 
 # Logs
 *.log
