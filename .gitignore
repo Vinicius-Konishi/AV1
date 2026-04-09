@@ -1,0 +1,23 @@
+# ==================== AeroCode .gitignore ====================
+
+# Dependências
+node_modules/
+
+# Build do TypeScript
+dist/
+
+# Dados gerados pela aplicação (não versionar)
+data/*
+!data/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# =============================================================
