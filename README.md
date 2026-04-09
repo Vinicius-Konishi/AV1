@@ -33,7 +33,7 @@ Sistema desenvolvido em TypeScript para simular o processo completo de produçã
 
 ## Estrutura do Projeto
 
-```
+
 aerocode/
 ├── src/
 │   ├── classes/
@@ -52,7 +52,7 @@ aerocode/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-```
+
 
 ---
 
