@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "123",
+    "modelo": "12",
+    "tipo": "MILITAR",
+    "capacidade": 10,
+    "alcance": 1000,
+    "pecas": [
+      {
+        "nome": "a",
+        "tipo": "IMPORTADA",
+        "fornecedor": "qwert",
+        "status": "EM_PRODUCAO"
+      }
+    ],
+    "etapas": [
+      {
+        "nome": "qwerty",
+        "prazo": "1223423",
+        "status": "PENDENTE",
+        "funcionarios": [
+          {
+            "id": "1234565",
+            "nome": "turteyu",
+            "nivelPermissao": "ADMINISTRADOR"
+          }
+        ]
+      }
+    ],
+    "testes": [
+      {
+        "tipo": "ELETRICO",
+        "resultado": "APROVADO"
+      }
+    ]
+  },
+  {
+    "codigo": "321",
+    "modelo": "F-10",
+    "tipo": "MILITAR",
+    "capacidade": 2,
+    "alcance": 1000000,
+    "pecas": [
+      {
+        "nome": "Piloto",
+        "tipo": "NACIONAL",
+        "fornecedor": "Mãe do Piloto",
+        "status": "PRONTA"
+      }
+    ],
+    "etapas": [
+      {
+        "nome": "Teste",
+        "prazo": "120106",
+        "status": "CONCLUIDA",
+        "funcionarios": [
+          {
+            "id": "1",
+            "nome": "eu",
+            "nivelPermissao": "OPERADOR"
+          }
+        ]
+      },
+      {
+        "nome": "teste2",
+        "prazo": "213421",
+        "status": "CONCLUIDA",
+        "funcionarios": [
+          {
+            "id": "2",
+            "nome": "tu",
+            "nivelPermissao": "ADMINISTRADOR"
+          }
+        ]
+      },
+      {
+        "nome": "234234",
+        "prazo": "234234",
+        "status": "PENDENTE",
+        "funcionarios": []
+      }
+    ],
+    "testes": [
+      {
+        "tipo": "AERODINAMICO",
+        "resultado": "REPROVADO"
+      }
+    ],
+    "cliente": "ertwert",
+    "dataEntrega": "53453456"
+  },
+  {
+    "codigo": "435734567458",
+    "modelo": "a4",
+    "tipo": "COMERCIAL",
+    "capacidade": 32463457,
+    "alcance": 12345342574568456,
+    "pecas": [],
+    "etapas": [],
+    "testes": []
+  }
+]
