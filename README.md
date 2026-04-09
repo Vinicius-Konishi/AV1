@@ -8,7 +8,7 @@ Sistema desenvolvido em TypeScript para simular o processo completo de produçã
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - Cadastro de aeronaves com código único
 - Gerenciamento de peças (Nacional / Importada) com atualização de status
@@ -31,7 +31,7 @@ Sistema desenvolvido em TypeScript para simular o processo completo de produçã
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 aerocode/
